@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "pets835574bd": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
